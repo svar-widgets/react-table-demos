@@ -1,4 +1,4 @@
-# Demos of SVAR Grid for React
+# Demos of SVAR DataGrid for React
 
 This repository contains the code of [the working examples](https://docs.svar.dev/react/grid/samples/#/base/willow) of [SVAR Grid for React](https://svar.dev/react/datagrid/), a ready-to-use Grid component that is easily integrates with React applications. 
 
