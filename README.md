@@ -1,8 +1,8 @@
 # Demos of SVAR DataGrid for React
 
-This repository contains the code of [the working examples](https://docs.svar.dev/react/grid/samples/#/base/willow) of [SVAR Grid for React](https://svar.dev/react/datagrid/), a ready-to-use Grid component that is easily integrates with React applications. 
+This repository contains the code of [the working examples](https://docs.svar.dev/react/grid/samples/#/base/willow) of [SVAR DataGrid for React](https://svar.dev/react/datagrid/), a ready-to-use table component that is easily integrates with React applications. 
 
-SVAR Grid and its demos are available under the GPLv3 license.
+SVAR DataGrid and its demos are available under the MIT license.
 
 # Getting Started with Create React App
 
